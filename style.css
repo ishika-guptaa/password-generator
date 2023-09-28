@@ -42,7 +42,6 @@ html{
 .container h1 span {
     color: #019f55;
     border-bottom: 4px solid #019f55;
-    padding-bottom: 7px;
 }
 
 .display img {
@@ -85,18 +84,18 @@ html{
         font-size: 50%;
     }
 }
-@media (max-width: 460px){
+@media (max-width: 499px){
     html{
         font-size: 40%;
     }
 }
-@media (max-width: 365px){
+@media (max-width: 399px){
     html{
         font-size: 35%;
     }
 }
-@media (max-width: 320px){
+@media (max-width: 350px){
     html{
-        font-size: 20%;
+        font-size: 25%;
     }
 }
